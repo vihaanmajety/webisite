@@ -1,0 +1,9 @@
+h1{color: brown;background-color:#f378 ;padding-left: 5%;margin-top: 60%;}
+h2{color: cyan;}
+p{color: rgb(78, 140, 221);}
+.box{background-color: rgb(75, 145, 139);display:flex;justify-content: space-between;}
+.item{background-color: rgb(20, 238, 238);}
+.grid{display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;}
+body{background:  #808080;}
